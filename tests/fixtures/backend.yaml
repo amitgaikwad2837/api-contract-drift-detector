@@ -1,0 +1,10 @@
+routes:
+  - path: /pets
+    method: GET
+    handler: ListPets
+  - path: /pets/{id}
+    method: GET
+    handler: GetPetById
+  - path: /users
+    method: GET
+    handler: ListUsers
