@@ -1,5 +1,5 @@
 {
-  "name": "@public-sdk/api-contract-drift-detector",
+  "name": "api-contract-drift-detector",
   "version": "0.1.0",
   "type": "module",
   "description": "Api Contract Drift Detector starter implementation scaffold",
@@ -28,5 +28,6 @@
     "yaml": "^2.4.1"
   }
 }
+
 
 
