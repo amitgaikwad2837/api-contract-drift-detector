@@ -1,13 +1,20 @@
 ﻿# API Contract Drift Detector
 
+Detect drift between OpenAPI specs and backend implementations before it reaches production.
+
+## 📦 Registry & Repository
+
+- **npm**: [@amitgaikwad37/api-contract-drift-detector](https://www.npmjs.com/package/@amitgaikwad37/api-contract-drift-detector)
+- **GitHub**: [amitgaikwad2837/api-contract-drift-detector](https://github.com/amitgaikwad2837/api-contract-drift-detector)
+
 ## Overview
 
-Detect drift between OpenAPI specs and backend implementations before it reaches production.
+This SDK detects breaking changes between OpenAPI contract definitions and actual backend implementations, catching regressions before they reach production. Ideal for API-first development and contract testing in CI/CD pipelines.
 
 ## Installation
 
 ~~~bash
-npm install @public-sdk/api-contract-drift-detector
+npm install @amitgaikwad37/api-contract-drift-detector
 ~~~
 
 ## Quick Start
